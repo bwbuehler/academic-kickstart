@@ -10,7 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor, Visual and Sound Media
+role: Assistant Professor
+Visual and Sound Media
 
 # Organizations/Affiliations
 organizations:
