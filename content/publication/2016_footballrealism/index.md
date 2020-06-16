@@ -1,7 +1,7 @@
 ---
 title: "Manufacturing 'Football Realism' in the Studio Era "
 authors:
-- admin
+- "Buehler, B."
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
