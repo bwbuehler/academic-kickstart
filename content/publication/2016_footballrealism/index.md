@@ -1,12 +1,12 @@
 ---
-title: "An example journal article"
+title: "Manufacturing 'Football Realism' in the Studio Era "
 authors:
 - admin
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2016-03-01T00:00:00Z"
+doi: "10.5406/jsporthistory.43.1.1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,10 +18,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Journal of Sport History, 43*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Drawing upon material from the Warner Bros. Archives, this article examines the production, marketing, and reception of football films released during the classical Hollywood era—specifically focusing on efforts by the studio to create and market 'realistic' football action. First, the paper briefly discusses the marketing and reception of two typical football movies from the period, College Coach and Over the Goal, to argue that the public expected football scenes to resemble live games and that the studio acknowledged this desire by attempting to market their football sequences as 'realistic.' Then, the paper examines two of the best-known football movies from the period, Knute Rockne, All American and Jim Thorpe—All-American, and documents how the films' producers attempted to ensure the movies met these standards for 'football realism,' whether that meant casting college football players as extras, enlisting a football-savvy crew, or using newsreel footage during gameplay sequences.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
