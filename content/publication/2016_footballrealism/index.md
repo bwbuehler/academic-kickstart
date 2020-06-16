@@ -32,7 +32,7 @@ featured: false
 
 # links:
 # - name: ""
-   url: "https://www.jstor.org/stable/10.5406/jsporthistory.43.1.1"
+#   url: "https://www.jstor.org/stable/10.5406/jsporthistory.43.1.1"
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
