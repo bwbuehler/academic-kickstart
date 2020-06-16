@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: "*Journal of Sport History, 43*(1)"
 publication_short: ""
 
-abstract: Drawing upon material from the Warner Bros. Archives, this article examines the production, marketing, and reception of football films released during the classical Hollywood era—specifically focusing on efforts by the studio to create and market 'realistic' football action. First, the paper briefly discusses the marketing and reception of two typical football movies from the period, College Coach and Over the Goal, to argue that the public expected football scenes to resemble live games and that the studio acknowledged this desire by attempting to market their football sequences as 'realistic.' Then, the paper examines two of the best-known football movies from the period, *Knute Rockne, All American* and *Jim Thorpe—All-American*, and documents how the films' producers attempted to ensure the movies met these standards for 'football realism,' whether that meant casting college football players as extras, enlisting a football-savvy crew, or using newsreel footage during gameplay sequences.
+abstract: Drawing upon material from the Warner Bros. Archives, this article examines the production, marketing, and reception of football films released during the classical Hollywood era—specifically focusing on efforts by the studio to create and market 'realistic' football action. First, the paper briefly discusses the marketing and reception of two typical football movies from the period, *College Coach* and *Over the Goal*, to argue that the public expected football scenes to resemble live games and that the studio acknowledged this desire by attempting to market their football sequences as 'realistic.' Then, the paper examines two of the best-known football movies from the period, *Knute Rockne, All American* and *Jim Thorpe—All-American*, and documents how the films' producers attempted to ensure the movies met these standards for 'football realism,' whether that meant casting college football players as extras, enlisting a football-savvy crew, or using newsreel footage during gameplay sequences.
 
 # Summary. An optional shortened abstract.
 summary: This article examines the production, marketing, and reception of football films released during the classical Hollywood era – specifically focusing on efforts by the studio to create and market 'realistic' football action.
@@ -33,7 +33,7 @@ featured: false
 links:
  - name: Journal of Sport History
    url: https://www.jstor.org/stable/10.5406/jsporthistory.43.1.1
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
 url_poster: ''
