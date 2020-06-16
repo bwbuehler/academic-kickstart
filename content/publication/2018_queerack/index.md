@@ -3,26 +3,26 @@ title: "Queer Acknowledgments"
 authors:
 - admin
 - "Rox Samer"
-author_notes:
- - "Equal contribution"
- - "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2018"
-doi: "10.5406/jsporthistory.43.1.1"
+doi: "https://doi.org/10.1007/978-3-319-64623-7_2"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Sport History, 43*(1)"
+publication: "*Mapping Queer Space(s) of Praxis and Pedagogy*"
 publication_short: ""
 
-abstract: Drawing upon material from the Warner Bros. Archives, this article examines the production, marketing, and reception of football films released during the classical Hollywood era—specifically focusing on efforts by the studio to create and market 'realistic' football action. First, the paper briefly discusses the marketing and reception of two typical football movies from the period, *College Coach* and *Over the Goal*, to argue that the public expected football scenes to resemble live games and that the studio acknowledged this desire by attempting to market their football sequences as 'realistic.' Then, the paper examines two of the best-known football movies from the period, *Knute Rockne, All American* and *Jim Thorpe—All-American*, and documents how the films' producers attempted to ensure the movies met these standards for 'football realism,' whether that meant casting college football players as extras, enlisting a football-savvy crew, or using newsreel footage during gameplay sequences.
+abstract: This chapter examines a model of academic kinship that supplants the traditional model rooted in the idea of genealogy, thereby suggesting that to be or think queer in academic spaces requires that we rethink the way that scholars and ideas are related in the academy. Academia, including the system of advisors, dissertation committees, peer groups, and the departments to which we belong, is often conceptualized as a family tree. However, the classic tree metaphor—borrowed from heteronormative forms of kinship structures—might not be the best model for a system that is often more circular than linear, more communal than hierarchical. Buehler and Samer explore how scholars become oriented toward the ideas of others and directed by certain lines of thought. Building on Sara Ahmed’s work on queer phenomenology and Gérard Genette’s theories of paratexts, Buehler and Samer take up acknowledgments sections as archives chronicling their authors’ intellectual influences and look at the kinship structures traceable within, between, and across them. Their theorizing of queer academic genealogies is further informed by their deployment of social network analysis software, which they use to map the web of queer studies’ thank-yous, anecdotes, and in-jokes that can be found within its acknowledgments sections. In doing so, they identify academic relationships and social bonds that normally go unseen. While they focus their study in terms of sample and critical investment, their approach could be extended to demonstrate in a broader fashion the ways in which all intellectual concerns, disciplines, and methodologies take shape over time. Buehler and Samer’s analysis thus offers up a way of mapping structures and systems of knowledge, informed not by trite metaphors, but by the flexibility and dialectics of queer theory.
 
 # Summary. An optional shortened abstract.
 summary: This article examines the production, marketing, and reception of football films released during the classical Hollywood era – specifically focusing on efforts by the studio to create and market 'realistic' football action.
