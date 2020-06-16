@@ -30,7 +30,7 @@ tags:
 - Source Themes
 featured: false
 
-# links:
+links:
  - name: Journal of Sport History
    url: https://www.jstor.org/stable/10.5406/jsporthistory.43.1.1
 url_pdf: http://arxiv.org/pdf/1512.04133v1
