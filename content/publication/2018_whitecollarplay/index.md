@@ -1,7 +1,7 @@
 ---
 title: "White-Collar Play: Reassessing Managerial Sports Games"
 authors:
-- admin
+- "Buehler, B."
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
