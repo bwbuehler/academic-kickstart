@@ -6,7 +6,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2018-01-01T00:00:00Z""
+date: "2018-01-01T00:00:00Z"
 doi: "https://doi.org/10.1007/978-3-319-64623-7_2"
 
 # Schedule page publish date (NOT publication's date).
