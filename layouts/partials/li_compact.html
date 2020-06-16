@@ -37,9 +37,9 @@
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </h3>
     
-    <h3 class="article-title mb-0 mt-0">
+    <h2>
       {{- .Params.publication | markdownify -}}
-    </h3>
+    </h2>
 
     {{ with $summary }}
     <div class="article-style">
