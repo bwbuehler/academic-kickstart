@@ -10,7 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Media Studies
+role: <style>
+@font-face {       
+  font-weight: 300;    
+}
+Assistant Professor of Media Studies</style>
 
 # Organizations/Affiliations
 organizations:
