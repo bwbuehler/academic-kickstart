@@ -18,21 +18,21 @@ doi: "https://doi.org/10.7560/VLT8102"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The Velvet Light Trap, 81* (Spring)"
+publication: "*The Velvet Light Trap, 81*"
 publication_short: ""
 
-abstract: In recent years, sports media has become fixated with the act of management—a fixation particularly evident in sports games that emphasize administrative tasks, like roster management, rather than athletic feats. This article considers how these managerial sports games, in simulating administrative work rather than action, turn white-collar work into entertainment and, in the process, collapse the dichotomy between work and play. While this blurring of work and play carries with it the troubling possibility of naturalizing neoliberal logic, as in the figuring of athletes as resources to be optimized, this article argues that this blurring also invites players to reflect on the conditions of their labor, potentially fostering both pleasure and critique.
+abstract: In recent years, sports media has become fixated with the act of management — a fixation particularly evident in sports games that emphasize administrative tasks, like roster management, rather than athletic feats. This article considers how these managerial sports games, in simulating administrative work rather than action, turn white-collar work into entertainment and, in the process, collapse the dichotomy between work and play. While this blurring of work and play carries with it the troubling possibility of naturalizing neoliberal logic, as in the figuring of athletes as resources to be optimized, this article argues that this blurring also invites players to reflect on the conditions of their labor, potentially fostering both pleasure and critique.
 
 # Summary. An optional shortened abstract.
-summary: This article examines the production, marketing, and reception of football films released during the classical Hollywood era – specifically focusing on efforts by the studio to create and market 'realistic' football action.
+# summary: This article examines the production, marketing, and reception of football films released during the classical Hollywood era – specifically focusing on efforts by the studio to create and market 'realistic' football action.
 
 tags:
 - Source Themes
 featured: false
 
-links:
- - name: Post-print PDF
-   url: https://www.jstor.org/stable/10.5406/jsporthistory.43.1.1
+# links:
+# - name: Post-print PDF
+#   url: https://www.jstor.org/stable/10.5406/jsporthistory.43.1.1
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
