@@ -27,7 +27,7 @@ abstract: This chapter examines a model of academic kinship that supplants the t
 summary: This article examines the production, marketing, and reception of football films released during the classical Hollywood era – specifically focusing on efforts by the studio to create and market 'realistic' football action.
 
 tags:
-- Source Themes
+# - Source Themes
 featured: false
 
 # links:
