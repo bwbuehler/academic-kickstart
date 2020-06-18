@@ -27,7 +27,8 @@ abstract: In recent years, sports media has become fixated with the act of manag
 # summary: This article examines the production, marketing, and reception of football films released during the classical Hollywood era – specifically focusing on efforts by the studio to create and market 'realistic' football action.
 
 tags:
-- Source Themes
+- Sports Media
+- Managerial Media
 featured: false
 
 links:
