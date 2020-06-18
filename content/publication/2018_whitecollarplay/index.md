@@ -30,9 +30,9 @@ tags:
 - Source Themes
 featured: false
 
-# links:
-# - name: Post-print PDF
-#   url: https://www.jstor.org/stable/10.5406/jsporthistory.43.1.1
+links:
+ - name: Postprint PDF
+   url: https://mediarxiv.org/y4s3w/download
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
