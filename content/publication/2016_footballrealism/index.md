@@ -27,7 +27,8 @@ abstract: Drawing upon material from the Warner Bros. Archives, this article exa
 summary: This article examines the production, marketing, and reception of football films released during the classical Hollywood era – specifically focusing on efforts by the studio to create and market 'realistic' football action.
 
 tags:
-- Source Themes
+- Sports Media
+- Sports Films
 featured: false
 
 # links:
