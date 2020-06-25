@@ -9,7 +9,7 @@ date: "2020-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,22 +18,22 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Sport Communication 13*(3)"
+publication: "*International Journal of Sport Communication, 13*(3)"
 publication_short: ""
 
-abstract: The American sports television industry has scrambled to adjust to the loss of live sporting events in the wake of the coronavirus pandemic, a scramble clearly evidenced in programming schedules suddenly filled with replays of older event telecasts. However, rather than focus on the apparent novelty of this type of substitute coronavirus programming, this article instead argues that the loss of live sporting events represents the amplification of a problem television networks have already been grappling with for years: how to fill an ever greater number of outlets with sufficient year-round programming given a finite amount of live events. That in mind, this article proposes that many of the programming strategies that networks have turned to in the midst of the pandemic, including the expanded coverage of transactions (e.g. coverage of NFL free agency) and the increased scheduling of documentaries (e.g. *The Last Dance*), have been familiar extensions of previously established alternative programming solutions.
+abstract: In recent years, sports media has become fixated with the act of management — a fixation particularly evident in sports games that emphasize administrative tasks, like roster management, rather than athletic feats. This article considers how these managerial sports games, in simulating administrative work rather than action, turn white-collar work into entertainment and, in the process, collapse the dichotomy between work and play. While this blurring of work and play carries with it the troubling possibility of naturalizing neoliberal logic, as in the figuring of athletes as resources to be optimized, this article argues that this blurring also invites players to reflect on the conditions of their labor, potentially fostering both pleasure and critique.
 
 # Summary. An optional shortened abstract.
 # summary: This article examines the production, marketing, and reception of football films released during the classical Hollywood era – specifically focusing on efforts by the studio to create and market 'realistic' football action.
 
 tags:
 - Sports Media
-- Sports Television
+- Managerial Media
 featured: false
 
-# links:
-# - name: Post-print PDF
-#   url: https://www.jstor.org/stable/10.5406/jsporthistory.43.1.1
+links:
+ - name: Postprint PDF
+   url: https://mediarxiv.org/y4s3w/download
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
@@ -64,3 +64,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
+
