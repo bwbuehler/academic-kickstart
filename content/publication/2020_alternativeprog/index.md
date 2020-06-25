@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Journal of Sport Communication"
+publication: "*International Journal of Sport Communication 13*(3)"
 publication_short: ""
 
 abstract: The American sports television industry has scrambled to adjust to the loss of live sporting events in the wake of the coronavirus pandemic – a scramble clearly evidenced in programming schedules suddenly filled with replays of older event telecasts. However, rather than focus on the apparent novelty of this type of substitute coronavirus programming, this article instead argues that the loss of live sporting events represents the amplification of a problem television networks have already been grappling with for years: how to fill an ever greater number of outlets with sufficient year-round programming given a finite amount of live events. That in mind, this article proposes that many of the programming strategies that networks have turned to in the midst of the pandemic, including the expanded coverage of transactions (e.g. coverage of NFL free agency) and the increased scheduling of documentaries (e.g. *The Last Dance*), have been familiar extensions of previously established alternative programming solutions.
