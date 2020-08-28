@@ -31,9 +31,9 @@ tags:
 - Sports Television
 featured: false
 
-# links:
-# - name: Postprint PDF
-#   url: https://mediarxiv.org/y4s3w/download
+links:
+- name: Postprint PDF
+  url: https://mediarxiv.org/42g98/download
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
