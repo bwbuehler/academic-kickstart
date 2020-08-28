@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In: Sheppard, S.N. & Vogan, T. (Eds.) *Sporting Realities Critical Readings of the Sports Documentary*"
+publication: "In: Sheppard, S.N. & Vogan, T. (Eds.) *Sporting Realities: Critical Readings of the Sports Documentary*"
 publication_short: ""
 
 abstract: Although sports television has long been largely absent from discussions of 'quality television' typically centered around primetime narrative programming, a number of recent sports television documentaries have been highlighted as unusual examples of quality sports television. This chapter argues that the positioning of sports television documentaries as quality is the result of a rare discursive alignment that has seen a wide range of forces within and surrounding the sports television industry share an atypical interest in promoting sports television as quality - atypicality that, in turn, speaks to the industry’s historically unique cultural contexts and financial imperatives, as in its traditional prioritization of young male viewers. As the chapter further argues, the positioning of sports television documentaries as quality has broader ramifications for how sports television is valued and discussed, for the elevation of documentary entails both the continued denigration of the rest of sports television and a disproportionate critical emphasis on filmic texts largely unrepresentative of the genre.
