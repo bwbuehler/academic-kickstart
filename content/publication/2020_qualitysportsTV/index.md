@@ -6,7 +6,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2020-09-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.2307/j.ctv13qfthk.4"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
