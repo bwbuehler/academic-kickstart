@@ -31,7 +31,7 @@ tags:
 featured: false
 
 links:
- - name: Post-print PDF
+ - name: Postprint PDF
    url: https://bwbuehler.com/publication/2018_queerack/Buehler+Samer_QueerAcknowledgments_AAM.pdf
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
