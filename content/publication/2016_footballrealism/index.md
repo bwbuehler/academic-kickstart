@@ -31,9 +31,9 @@ tags:
 - Sports Films
 featured: false
 
-# links:
-# - name: Post-print PDF
-#   url: https://www.jstor.org/stable/10.5406/jsporthistory.43.1.1
+links:
+- name: Post-print PDF
+  url: https://mediarxiv.org/zqbsn/download
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
