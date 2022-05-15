@@ -5,7 +5,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2021-04-19T00:00:00Z"
+date: "2022-05-01T00:00:00Z"
 doi: "https://doi.org/10.1177/15274764211008494"
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Television & New Media*"
+publication: "*Television & New Media, 23*(4)"
 publication_short: ""
 
 abstract: As the rise of internet distribution has transformed television, precipitating the continued expansion and fracturing of the medium, sports television has not been excluded. In analyzing the effects of internet distribution on sports television, this article specifically examines how internet distribution has fostered the emergence of independent sports television producers and distributors operating outside the traditional sports television system. Using the sport of Ultimate frisbee (Ultimate) as a case study, the article first argues that the new streaming companies that have emerged around that sport have largely modeled their streams on legacy sports television, but have also looked to adapt the conventions of traditional sports television to the specificities of the sport. Second, the article suggests that a particular area of concern for these independent streaming companies has been representation, as these companies have sought to offer a more progressive form of sports television.
