@@ -72,5 +72,5 @@ user_groups:
 
 Branden Buehler is an assistant professor in the Visual and Sound Media Program in the College of Communication and the Arts at Seton Hall University. He is media studies scholar whose research centers around sports media, with a particular focus on sports television and sports media industries.
 
-His book <i>Front Office Fantasies: The Rise of Managerial Sports Media</i>, examining the ubiquity of recent ubiquity of sports media texts fixated on managerial figures and managerial responsibilities, is forthcoming from the University of Illinois Press in December 2023. More information about the book can be found here: <a href="https://www.press.uillinois.edu/books/?id=p087745">https://www.press.uillinois.edu/books/?id=p087745</a>
+His book <i>Front Office Fantasies: The Rise of Managerial Sports Media</i>, examining the recent ubiquity of sports media texts fixated on administrators and their administrative responsibilities, is forthcoming from the University of Illinois Press in December 2023. More information about the book can be found here: <a href="https://www.press.uillinois.edu/books/?id=p087745">https://www.press.uillinois.edu/books/?id=p087745</a>
 
