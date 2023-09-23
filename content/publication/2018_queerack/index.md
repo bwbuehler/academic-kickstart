@@ -1,7 +1,8 @@
 ---
 title: "Queer Acknowledgments"
 authors:
-- "Buehler, B. & Samer, R."
+- "Buehler, B."
+- "Samer, R."
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
