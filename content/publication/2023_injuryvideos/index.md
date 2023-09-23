@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: "*Sport in Society*, online first"
 publication_short: ""
 
-abstract: In recent years, one of the historic foundations
+abstract: In recent years, one of the historic foundations of sports media, the highlight, has been refigured as sports fans and other users have created and circulated videos
 # Summary. An optional shortened abstract.
 # summary: This article examines the production, marketing, and reception of football films released during the classical Hollywood era – specifically focusing on efforts by the studio to create and market 'realistic' football action.
 
