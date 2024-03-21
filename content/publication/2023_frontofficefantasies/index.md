@@ -32,8 +32,12 @@ tags:
 featured: false
 
 links:
-# - name: Postprint PDF
-#  url: https://mediarxiv.org/ku352/download
+- name: Publisher Website
+  url: https://www.press.uillinois.edu/books/?id=p087745
+- name: Bookshop.org
+  url: https://bookshop.org/p/books/front-office-fantasies-the-rise-of-managerial-sports-media-branden-buehler/19975404?ean=9780252087745
+- name: Amazon
+  url: https://www.amazon.com/Front-Office-Fantasies-Managerial-Studies/dp/0252087747/ref=sr_1_1?crid=23N80K7L6PJ4N&dib=eyJ2IjoiMSJ9.dnuymNEZ0YD9IWhFOyy-kLZ5uS74nYBNbCPqIMXEBTKgOfXIC8Vj4LLas48wwaabWzMJZlLCeItUvyZIA8n237aRE3IDIUvggWEG-pez1Dm_llWLnZBbDQvhN87i0sHUGap8yOwadQ2SrsS5W28ubMi5TIfu7HRXOKusjbOSyZe_ypflho_5-7m8nO4a0qN724Cr92SuvGlBx03i8lDGig4HtZOs1L4an_oXuAfqMGc.GIhMCzzC_aywYz-lqp2HYlFGk2kTvn-BqZL9xR9zVs4&dib_tag=se&keywords=front+office+fantasies&qid=1711047023&s=books&sprefix=front+office+fantasies%2Cstripbooks%2C74&sr=1-1
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
