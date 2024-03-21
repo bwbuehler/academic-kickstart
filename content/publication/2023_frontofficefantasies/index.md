@@ -1,5 +1,5 @@
 ---
-title: "*Front Office Fantasies: The Rise of Managerial Sports Media*"
+title: "Front Office Fantasies: The Rise of Managerial Sports Media"
 authors:
 - "Buehler, B."
 # author_notes:
