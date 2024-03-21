@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Sport in Society*, online first"
+publication: "*Sport in Society, 27*(3)"
 publication_short: ""
 
 abstract: In recent years, one of the historic foundations of sports media, the &#34;highlight,&#34; has been refigured as sports fans and other users have created and circulated videos outside of traditional media-institutional spaces. Indicative of this refiguration is the emergence of a new sub-genre of sports highlight&#58; the gruesome injury video. Social networks offer videos that feature catastrophic events (visible bone breaks, etc.) and, in the process, venture into affective realms normally eschewed by mainstream sports media by conjuring the sort of affective excess more commonly associated with fictional &#34;body genres&#34; such as horror and melodrama. With an eye to the context of digital sport media, this article uses close readings to suggest that by deviating from the traditional inoffensive exhilaration of the highlight genre, user-generated sports highlights carry the potential of fostering critical readings of sport typically discouraged by mainstream sports media.
