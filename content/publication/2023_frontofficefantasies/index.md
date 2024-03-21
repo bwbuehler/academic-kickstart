@@ -5,8 +5,8 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2022-05-01T00:00:00Z"
-doi: "https://doi.org/10.1177/15274764211008494"
+date: "2023-12-01T00:00:00Z"
+# doi: "https://doi.org/10.1177/15274764211008494"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,8 +18,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Television & New Media, 23*(4)"
-publication_short: ""
+# publication: "*Television & New Media, 23*(4)"
+# publication_short: ""
 
 abstract: This book explores the recent ubiquity of sports media texts fixated on managerial figures and managerial responsibilities – a phenomenon evidenced everywhere from the success of films like Moneyball to the increasing television coverage of the NFL and NBA drafts to the expanding popularity of fantasy sports. For one, the book documents the wide scope of this managerial fixation, establishing just how important managerial figures and managerial work have become within sports media. For another, the book examines the industrial origins of this managerial interest, detailing and historicizing significant developments within both the media and sport industries that have precipitated the explosion in managerial content, including, for instance, the rise of league-owned media outlets craving year-round content. At its heart, though, the book is an analysis of the ideological roots and ramifications of the managerial fixation. Accordingly, the book situates sports media’s managerial fixation within wider societal contexts, touching, for example, on interrelated subjects like hegemonic masculinity, financialization, managerialism, neoliberalism, and quantification. As this ideological analysis makes clear, sports media’s managerial fixation has not only reflected a variety of broader societal shifts, such as the growing entwinement of culture and finance, but also played a role in driving many of those same transformations.
  
@@ -32,7 +32,7 @@ tags:
 featured: false
 
 links:
-#- name: Postprint PDF
+# - name: Postprint PDF
 #  url: https://mediarxiv.org/ku352/download
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
